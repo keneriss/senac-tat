@@ -1,0 +1,5 @@
+git pull - tem como objetivo atualizar o repositório local com as alterações mais recentes do repositório remoto. Ele faz isso em duas etapas: primeiro, ele executa um
+git status - É um comando bastante útil para ter um panorama rápido do estado do seu repositório!
+git add - Adiciona todos os arquivos modificados e novos (exceto os ignorados) à área de staging.
+git coommit - m "Atualizacao" - O comando git commit -m "Atualizacao" tem como objetivo registrar as alterações feitas no repositório, criando um novo "ponto de verificação" no histórico do Git. Ele salva as mudanças que foram previamente adicionadas à área de staging
+git push - O comando git push é usado para enviar (ou "empurrar") seus commits locais para um repositório remoto. Isso significa que ele atualiza o repositório remoto com as mudanças que você fez localmente e já comitou.
